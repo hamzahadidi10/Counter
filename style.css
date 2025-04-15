@@ -1,0 +1,40 @@
+p{
+    text-align: center;
+    font-size: 13em;
+    margin: 0;
+    font-family: verdana;
+    color: hsl(200, 45%, 36%);
+}
+.buttons{
+    text-align: center;
+    padding: 15px 40px;
+    background-color: rgb(81, 129, 129);
+    margin-right: 20%;
+    margin-left: 20%;
+    
+    
+    
+}
+button{
+    padding: 10px 10px;
+    font-weight: bold;
+    border: rgb(87, 77, 77) solid 2px;
+    border-radius: 10px;
+    color: rgb(76, 31, 202);
+    background-color: rgb(176, 223, 208);
+    transition: background-color 0.25s;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(195, 190, 190);
+    
+}
+.count{
+    background-color: rgb(4, 29, 29);
+    padding: 40px ;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%s;
+    
+}
